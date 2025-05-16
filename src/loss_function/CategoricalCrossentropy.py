@@ -1,4 +1,4 @@
-import Loss
+from loss_function.Loss import Loss
 import numpy as np
 
 class Loss_CategoricalCrossentropy(Loss):
