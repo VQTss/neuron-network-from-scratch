@@ -16,3 +16,9 @@ class Loss:
 
 
         return data_loss
+    
+
+
+
+
+    

@@ -27,3 +27,10 @@ class Loss_CategoricalCrossentropy(Loss):
         negative_log_likelihoods = -np.log(correct_confidences)
 
         return negative_log_likelihoods
+    
+
+
+
+
+
+    

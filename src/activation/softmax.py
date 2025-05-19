@@ -14,3 +14,9 @@ class Activation_Softmax:
         probabilities =  exp_values / np.sum(exp_values, axis=1, keepdims=True)
 
         self.outputs = probabilities
+
+
+
+
+
+        

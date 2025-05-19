@@ -12,3 +12,8 @@ class Dense:
     def forward(self, inputs):
         # Calculate output values from inputs, weights, biases
         self.output = np.dot(inputs,self.weights) + self.biases
+
+
+
+
+        
