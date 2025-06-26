@@ -3,3 +3,4 @@ numpy
 nnfs
 matplotlib
 torch
+jupyter

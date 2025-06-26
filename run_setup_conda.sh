@@ -10,7 +10,7 @@ fi
 source "$(conda info --base)/etc/profile.d/conda.sh"
 
 # Create conda environment with Python 3.11
-conda create -n neuron-network python=3.11 -y
+conda create -n neuron-network python=3.12 -y
 
 # Activate the environment
 conda activate neuron-network
